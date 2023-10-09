@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Kirill Taraturin</h1>
 
-<!--
-**Kirilloao/Kirilloao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">iOS Developer</h3>
 
-Here are some ideas to get you started:
+I'm from Budapest, Hungary. Learning Swift from 2022.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Studied at the SwiftBook(https://swiftbook.org/professions/80/show_promo/) and Angela Yu Bootcamp (https://www.udemy.com/course/ios-13-app-development-bootcamp).
+
+Finish Swift marathon 8.0 ([https://t.me/swiftmarathon](https://t.me/devrush_community/13663)https://t.me/devrush_community/13663).
+
+## Skills and Experience
+
+*  Swift
+*  Xcode
+*  iOS SDK, MVC, UIKit, Storyboard, Code, JSON, 
+*  CocoaPods / SPM / Firebase / SnapKit / Kingfisher / Realm / CoreData / UserDefaults
+
+  ## Certificates
+
