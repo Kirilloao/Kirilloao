@@ -12,7 +12,7 @@ Finished Swift marathon 8.0 (https://t.me/devrush_community/13663).
 
 *  Swift
 *  Xcode
-*  iOS SDK, MVC, UIKit, Storyboard, Code, JSON, 
+*  iOS SDK, MVC, UIKit, Storyboard, Code, JSON
 *  CocoaPods / SPM / Firebase / SnapKit / Kingfisher / Realm / CoreData / UserDefaults
 
  ## Team Projects
