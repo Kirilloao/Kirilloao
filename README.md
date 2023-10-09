@@ -27,4 +27,4 @@ Finish Swift marathon 8.0 ([https://t.me/swiftmarathon](https://t.me/devrush_com
 
   ## Certificates
   <a href="https://github.com/Kirilloao/Kirilloao/blob/main/A4%20-%20185.pdf" target="_blanck"><img src="https://github.com/Kirilloao/Kirilloao/blob/main/Surf.png" alt="swiftbook.org" width = "180" height="240" border="10" /></a>
-    <a href="https://github.com/Kirilloao/Kirilloao/blob/main/A4%20-%20185.pdf" target="_blanck"><img src="https://github.com/Kirilloao/Kirilloao/blob/main/swiftBook.png" alt="swiftbook.org" width = "240" height="180" border="10" /></a>
+    <a href="https://github.com/Kirilloao/Kirilloao/blob/main/swiftBook.png" target="_blanck"><img src="https://github.com/Kirilloao/Kirilloao/blob/main/swiftBook.png" alt="swiftbook.org" width = "240" height="180" border="10" /></a>
