@@ -1,8 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Kirill Taraturin</h1>
+<h1 align="center">Kirill Taraturin</h1>
 
 <h3 align="center">iOS Developer</h3>
-
-I'm from Budapest, Hungary. Learning Swift from 2022.
 
 **Finished:**
 
