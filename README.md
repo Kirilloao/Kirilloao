@@ -1,4 +1,3 @@
-<h1 align="center">Kirill Taraturin</h1>
 
 <h3 align="center">iOS Developer</h3>
 
