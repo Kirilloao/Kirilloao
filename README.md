@@ -6,7 +6,7 @@
 
 *  Swift
 *  Xcode
-*  iOS SDK, MVC, UIKit, Storyboard, Code, JSON
+*  iOS SDK, MVC, UIKit, Storyboard, Code, JSON, GIT
 *  CocoaPods / SPM / Firebase / SnapKit / Kingfisher / Realm / CoreData / UserDefaults
 ## My Projects
 https://github.com/Kirilloao/RickAndMorty - **UIKit, MVC**
