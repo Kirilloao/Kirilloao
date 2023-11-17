@@ -4,7 +4,7 @@
 
 ## Skills and Experience
 *  iOS SDK / SOLID / MVC / UIKit / Storyboard / Code / JSON / GIT
-*  CocoaPods / SPM / Firebase / SnapKit / Kingfisher / Realm / CoreData / UserDefaults
+*  SPM / Firebase / SnapKit / Kingfisher / Realm / CoreData / UserDefaults
 ## My Projects
 https://github.com/Kirilloao/RickAndMorty - **UIKit, MVC**
 
@@ -20,6 +20,8 @@ https://github.com/Kirilloao/HeroHub - **UIKit, MVP**
  https://github.com/michaelbolgar/My-Recipes-Book
  
  https://github.com/DmitryLorents/PodcastApp
+
+ https://github.com/Kirilloao/Rainbow
  
 
  ## Certificates
