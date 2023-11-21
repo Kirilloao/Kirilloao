@@ -13,7 +13,6 @@ https://github.com/Kirilloao/HotDogOrNot - **UIKit, CoreML, MVC**
 https://github.com/Kirilloao/HeroHub - **UIKit, MVP**
 
 ## Team Projects
- https://github.com/vitaly-grinchik/SwiftStore
  
  https://github.com/Kirilloao/BombGame
 
