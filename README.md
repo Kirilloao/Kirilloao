@@ -1,10 +1,6 @@
 
 <h3 align="center">iOS Developer</h3>
 
-
-## Skills and Experience
-*  iOS SDK / SOLID / MVC / UIKit / Storyboard / Code / JSON / GIT
-*  SPM / Firebase / SnapKit / Kingfisher / Realm / CoreData / UserDefaults
 ## My Projects
 https://github.com/Kirilloao/RickAndMorty - **UIKit, MVC**
 
