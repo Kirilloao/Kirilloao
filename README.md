@@ -16,7 +16,7 @@ https://github.com/Kirilloao/HeroHub - **UIKit, MVP**
  
  https://github.com/DmitryLorents/PodcastApp
 
- https://github.com/Kirilloao/Rainbow
+ https://github.com/Kirilloao/Rainbow (teamLeader)
  
 
  ## Certificates
