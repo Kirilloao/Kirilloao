@@ -1,6 +1,15 @@
 
 <h3 align="center">iOS Developer</h3>
 
+## Stack
+* UIKit(NSLayoutConstraint, SnapKit)
+* MVC, MVP
+* URLSession
+* CoreData/Realm
+* Cocoapods, SPM
+* GIT
+
+
 ## My Projects
 https://github.com/Kirilloao/RickAndMorty - **UIKit, MVC**
 
