@@ -19,15 +19,15 @@ https://github.com/Kirilloao/HeroHub - **UIKit, MVP**
 
 ## Team Projects
  
- https://github.com/Kirilloao/BombGame
+ https://github.com/Kirilloao/BombGame - **UIKit, MVC, NoStoryboard**
 
- https://github.com/michaelbolgar/My-Recipes-Book
+ https://github.com/michaelbolgar/My-Recipes-Book - **UIKit, MVC, NoStoryboard, SnapKit, UD, Firebase**
  
- https://github.com/DmitryLorents/PodcastApp
+ https://github.com/DmitryLorents/PodcastApp - **UIKit, MVC, NoStoryboard, SnapKit, UD, Realm, Kingfisher, Google SignIn**
 
- https://github.com/Kirilloao/Rainbow (teamLeader)
+ https://github.com/Kirilloao/Rainbow (teamLeader) -  **UIKit, MVC, NoStoryboard, UD**
 
- https://github.com/Colokol/StoreBook
+ https://github.com/Colokol/StoreBook - **UIKit, MVVM + Combine, CoreData**
  
 
  ## Certificates
