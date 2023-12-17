@@ -2,12 +2,12 @@
 <h3 align="center">iOS Developer</h3>
 
 ## Stack
-* UIKit(NSLayoutConstraint, SnapKit)
-* MVC, MVP
+* UIKit
+* MVC, MVP, MVVM
 * URLSession
-* CoreData/Realm
+* CoreData, Realm
 * Cocoapods, SPM
-* GIT
+* GIT, Fork
 
 
 ## My Projects
