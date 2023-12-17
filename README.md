@@ -5,7 +5,7 @@
 * UIKit
 * MVC, MVP, MVVM
 * URLSession
-* CoreData, Realm
+* CoreData, Realm, UD, FileManager
 * Cocoapods, SPM
 * GIT, Fork
 
