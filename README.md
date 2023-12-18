@@ -15,7 +15,7 @@ https://github.com/Kirilloao/RickAndMorty - **UIKit, MVC**
 
 https://github.com/Kirilloao/HotDogOrNot - **UIKit, CoreML, MVC**
 
-https://github.com/Kirilloao/HeroHub - **UIKit, MVP**
+https://github.com/Kirilloao/HeroHub - **UIKit, MVP + Router**
 
 ## Team Projects
  
