@@ -4,10 +4,11 @@
 ## Stack
 * UIKit
 * MVC, MVP, MVVM
-* URLSession
+* SOLID / OOP
+* URLSession, Alamofire
 * CoreData, Realm, UD, FileManager
 * Cocoapods, SPM
-* GIT, Fork
+* GIT, GitFlow, Fork
 
 
 ## My Projects
